@@ -1,5 +1,6 @@
 # General Jekyll Config
-highlighter: pygments
+highlighter: rouge
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+theme: jekyll-theme-minimal
