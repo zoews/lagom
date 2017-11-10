@@ -6,12 +6,14 @@ title: Hello
 
 # I'm a software developer in training living in Ann Arbor, Michigan. 
 
-How do we identify stories in complex data? My focus on data storytelling brings together a genuine interest in listening empathetically with using words and code to craft narratives.
+In 2011, I started my career teaching adult learners from diverse backrounds how to double-click, browse Wikipedia, and  enter functions into Excel. 
 
-As a **Data Visualization Intern** in the [Digital Projects Studio](http://clarkdatalabs.github.io) (University of Michigan Libraries), I grapple with ambiguous and messy data, as well as support the problem-solving processes of diverse clients via consulting, writing, teaching, and developing. 
+Six years later, I still love helping folks work towards their goals with technology, but I draw upon a different toolkit: developing web applications and open source software, consulting with clients from diverse backgrounds and with varying levels of technical expertise, mentoring young developers, and writing about techinical topics.
 
-**Key methodologies:** Data storytelling and visualization; web application development; mixed-methods research; technical writing
+As a **Data Visualization Intern** in the [Digital Projects Studio](http://clarkdatalabs.github.io) at the University of Michigan Library, I grapple with ambiguous and messy data, as well as support the problem-solving processes of diverse clients via consulting, writing, coding, and teaching. Learn more about our [latest data-driven visualization project of the NASA Space Shuttle program](https://clarklabs.lib.umich.edu/2017/11/08/using_processing_visualize_space_exploration/).
 
-**Key technical skills:** Python, R, SQL, Tableau, HTML/CSS, Django, JavaScript, Natural Language Processing (NLP), Ruby on Rails
+**Key methodologies:** Web application development; technical project management; mixed-methods research; data visualization and storytelling; technical writing
+
+**Key technical skills:** Python, Django, R, SQL, PHP, JavaScript, Natural Language Processing (NLP), Tableau, Ruby on Rails
 
 Outside of work I love pinball, zines, hikes, cats, and trains.
