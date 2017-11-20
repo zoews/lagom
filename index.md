@@ -4,11 +4,11 @@ title: Hello
 ---
 
 
-# I'm a software developer in training living in Ann Arbor, Michigan. 
+# I'm a data librarian in training living in Ann Arbor, Michigan. 
 
 In 2011, I started my career teaching adult learners from diverse backrounds how to double-click, browse Wikipedia, and  enter functions into Excel. 
 
-Six years later, I still love helping folks work towards their goals with technology, but I draw upon a different toolkit: developing web applications and open source software, consulting with clients from diverse backgrounds and with varying levels of technical expertise, mentoring young developers, and writing.
+Six years later, I still love helping learners work towards their goals with technology, but I draw upon a different toolkit: developing web applications and open source software, consulting with clients from diverse backgrounds and with varying levels of technical expertise, mentoring young developers, and writing.
 
 As a **Data Visualization Intern** in the [Digital Projects Studio](http://clarkdatalabs.github.io) at the University of Michigan Library, I grapple with ambiguous and messy data, as well as support the problem-solving processes of diverse clients via consulting, writing, coding, and teaching. Learn more about our [latest visualization of the NASA Space Shuttle program](https://clarklabs.lib.umich.edu/2017/11/08/using_processing_visualize_space_exploration/).
 
