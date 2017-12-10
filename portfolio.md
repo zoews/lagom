@@ -5,7 +5,7 @@ title: Portfolio
 
 # Portfolio
 
-My porfolio includes open source projects, research and technical writing, interactive fiction, and various essays.
+My porfolio includes open source projects, research and technical writing, interactive fiction, and various essays. Feel free to [explore my GitHub profile](https://github.com/zoews) as well.
 
 ### Projects
 
